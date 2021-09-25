@@ -1,0 +1,9 @@
+1). https://github.com/kroule/404Lab1
+2). 2.25.1
+3). 2.26.0
+4). Virtual env provides a blank python enviornment?
+
+5). 301 Moved Permanantly, https://www.google.com/
+6). 301, curl -i, curl -iL gives 418. curl http://www.google.com/teapot gives 418 as well.
+7). Nothing?
+8). https://raw.githubusercontent.com/kroule/404Lab1/main/version.py
